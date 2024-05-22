@@ -37,8 +37,8 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1](https://github.com/MrBurstein/berkely-bitcoin-capstone/blob/main/code/main.ipynb)
-- [Link to notebook 2]()
+- [Link to notebook 1 - Main Anaylsis](https://github.com/MrBurstein/berkely-bitcoin-capstone/blob/main/code/main.ipynb)
+- [Link to notebook 2 - Neural Netowrk LSTM](https://github.com/MrBurstein/berkely-bitcoin-capstone/blob/main/code/LSTM.ipynb)
 - [Link to notebook 3]()
 
 ##### Contact and Further Information
